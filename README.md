@@ -1,61 +1,100 @@
-# Real time video communication with webRTC 
+<div align="center">
+  
+<a href="https://cuckooapp.herokuapp.com">
+  <img alt="Cuckoo" src="./client/src/Icons/cuckoo-logo.svg" width="60" />
+</a>
 
-This is a real time communication application using MERN stack.
-## Technologies
-- JSX
-- CSS
-- Javascript
-- REACT
-- Socket.io
-- webRTC
-- Peer
-## Usage
+# Cuckoo - Anonymous, Free Video Calls
 
-> Clone the repository to your local machine
+Anonymous video calls across the world for free with screensharing!
+  
+<a href="https://github.com/somikdatta/cuckoo/fork" target="blank">
+<img src="https://img.shields.io/github/forks/somikdatta/cuckoo?style=for-the-badge" alt="cuckoo forks"/>
+</a>
 
-```sh
-$ git clone https://github.com/forison/webRTC-chat.git
+<a href="https://github.com/somikdatta/cuckoo/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/somikdatta/cuckoo?style=for-the-badge" alt="cuckoo stars"/>
+</a>
+
+<a href="https://github.com/somikdatta/cuckoo/issues" target="blank">
+<img src="https://img.shields.io/github/issues/somikdatta/cuckoo?style=for-the-badge" alt="cuckoo issues"/>
+</a>
+
+<a href="https://github.com/somikdatta/cuckoo/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/somikdatta/cuckoo?style=for-the-badge" alt="cuckoo pull-requests"/>
+</a>
+
+<br/>
+<br/>
+
+<a href="https://cuckooapp.herokuapp.com/" target="_blank">View Cuckoo</a> · <a href="https://github.com/somikdatta/cuckoo/issues/new/choose" target="_blank">Report Bug</a> · <a href="https://github.com/somikdatta/cuckoo/issues/new/choose" target="_blank">Request Feature</a>
+
+✨ _Loved the project? Give this project a star to show your support._ ✨
+
+<img src="./demo.gif" style="width: 80%"/>
+
+</div>
+
+---
+
+Cuckoo is a small project to demonstrate the concepts of WebRTC, WebSockets by facilitating video calls across the web!
+---
+
+## 🧐 Feature list
+
+-   [x] Video Call
+-   [x] Screen Sharing
+-   [ ] Select camera
+-   [ ] Select audio device
+
+## 🚀 Getting started
+
+This project is deployed at https://cuckooapp.herokuapp.com
+
+Guide for local deployment -
+
+1. Clone the repository
+```bash
+git clone https://github.com/somikdatta/cuckoo.git
 ```
-
-> cd into the directory
-
-```sh
-$ cd simpleRestaurantPage
+2. Change the working directory
+```bash
+cd cuckoo
 ```
-> git clone https://github.com/forison/webRTC-chat
+3. Install dependencies
+```bash
+npm install
+```
+4. Change the working directory
+```bash
+cd client
+```
+5. Install dependencies
+```bash
+yarn install
+```
+6. Run the app
+```bash
+npm start in parent directory /cuckoo
+```
+```bash
+yarn start in directory /cuckoo/client
+```
+7. Open project at http://localhost:3000
 
-``` 
-cd webRTC-chat 
-```
-```
- npm install
-```
-```
-npm watch
-```
-```
-npm start
-```
-```
-open with your favourite web browser.
-```
+🌟 You are all set!
 
-## Designed and developed by
+## 🙇 Special Thanks 
+- [Coding with Chaim](https://github.com/coding-with-chaim/) for explaining the concepts of WebSockets and WebRTC on his [YouTube Channel](https://www.youtube.com/channel/UC7sCgeZ9xOwCGHIp2mVWlUQ)
 
-[Boakye Addo Forison](https://github.com/Forison)
+## ❤️ Support
 
-## SPECIAL THANKS TO:
+If you happen to love this project, leave a star on the repo. That'll keep me motivated. Let me know your thoughts with a tweet. Mention me [@somikdatta](https://twitter.com/somikdatta).
 
-SOMIK DATTA
-CHAIM
-## Contributing
+Thanks!
 
-1. Fork it (https://github.com/forison/webRTC-chat/fork)
-2. Create your feature branch (git checkout -b feature/[choose-a-name])
-3. Commit your changes (git commit -am 'What this commit will fix/add')
-4. Push to the branch (git push origin feature/[chosen name])
-5. Create a new Pull Request
+Contributions are welcomed!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details
+<div align="center">
+Developed with ❤️ in India 🇮🇳 
+</div>
