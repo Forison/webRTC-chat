@@ -51,6 +51,6 @@ yarn start in directory /webRTC-chat/client
 
 ## ❤️ Support
 
-If you happen to love this project, leave a star on the repo. That'll keep me motivated. Let me know your thoughts with a tweet. [@forison](https://twitter.com/somikdatta)Mention me.
+If you happen to love this project, leave a star on the repo. That'll keep me motivated. Let me know your thoughts with a tweet. [@forison](https://www.linkedin.com/in/forison/) Mention me.
 
 Thanks!
