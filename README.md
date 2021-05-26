@@ -15,19 +15,24 @@ This is a real time communication application using MERN stack.
 
 ```
 > git clone https://github.com/forison/webRTC-chat
+```
 
 ``` 
 cd webRTC-chat 
 ```
+
 ```
  npm install
 ```
+
 ```
 npm watch
 ```
+
 ```
 npm start
 ```
+
 ```
 open with your favourite web browser.
 ```
