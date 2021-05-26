@@ -13,14 +13,6 @@ This is a real time communication application using MERN stack.
 
 > Clone the repository to your local machine
 
-```sh
-$ git clone https://github.com/forison/webRTC-chat.git
-```
-
-> cd into the directory
-
-```sh
-$ cd simpleRestaurantPage
 ```
 > git clone https://github.com/forison/webRTC-chat
 
